@@ -394,7 +394,7 @@ public class NesamaniApp extends JFrame {
 ```
 ### Demo
 #### Screenshots
-<center><img src = "./images/1.jpg"></center>
+<center><img src = ""C:\Users\lakan\Downloads\Desktop\Project\IMG-20230717-WA0002.jpg""></center>
 <center><img src = "./images/2.jpg"></center>
 <center><img src = "./images/3.jpg"></center>
 <center><img src = "./images/4.jpg"></center>
