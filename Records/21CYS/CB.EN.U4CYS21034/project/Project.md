@@ -403,4 +403,4 @@ public class NesamaniApp extends JFrame {
 
 #### Video
 
-<img src = "./video.gif">
+<img src = "./demo.gif">
