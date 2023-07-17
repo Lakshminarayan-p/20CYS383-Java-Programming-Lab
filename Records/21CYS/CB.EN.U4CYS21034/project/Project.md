@@ -398,7 +398,7 @@ public class NesamaniApp extends JFrame {
 <center><img src = "./login failed.jpg"></center>
 <center><img src = "./sign in.jpg"></center>
 <center><img src = "./homepage.jpg"></center>
-<center><img src = "./findjobs.jpg"></center>
+<center><img src = "./find jobs.jpg"></center>
 <center><img src = "./hire now.jpg"></center>
 
 #### Video
